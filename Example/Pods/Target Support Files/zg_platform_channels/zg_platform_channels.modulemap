@@ -1,0 +1,6 @@
+framework module zg_platform_channels {
+  umbrella header "zg_platform_channels-umbrella.h"
+
+  export *
+  module * { export * }
+}

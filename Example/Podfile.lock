@@ -1,0 +1,104 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_boost (0.0.2):
+    - Flutter
+  - FlutterPluginRegistrant (0.0.1):
+    - Flutter
+    - flutter_boost
+    - package_info
+    - shared_preferences
+    - zg_platform_channels
+    - ZGFlutterRouter
+  - FlutterUnitTest (0.1.0)
+  - package_info (0.0.1):
+    - Flutter
+  - path_provider_linux (0.0.1):
+    - Flutter
+  - path_provider_windows (0.0.1):
+    - Flutter
+  - shared_preferences (0.0.1):
+    - Flutter
+  - shared_preferences_linux (0.0.1):
+    - Flutter
+  - shared_preferences_macos (0.0.1):
+    - Flutter
+  - shared_preferences_web (0.0.1):
+    - Flutter
+  - shared_preferences_windows (0.0.1):
+    - Flutter
+  - zg_erp_flutter (0.0.1):
+    - Flutter
+  - zg_platform_channels (0.0.1):
+    - Flutter
+  - ZGFlutterRouter (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `../../zg_erp_flutter/.ios/Flutter/engine`)
+  - flutter_boost (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/flutter_boost/ios`)
+  - FlutterPluginRegistrant (from `../../zg_erp_flutter/.ios/Flutter/FlutterPluginRegistrant`)
+  - FlutterUnitTest (from `../`)
+  - package_info (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/package_info/ios`)
+  - path_provider_linux (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_linux/ios`)
+  - path_provider_windows (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_windows/ios`)
+  - shared_preferences (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences/ios`)
+  - shared_preferences_linux (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_linux/ios`)
+  - shared_preferences_macos (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_macos/ios`)
+  - shared_preferences_web (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_web/ios`)
+  - shared_preferences_windows (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_windows/ios`)
+  - zg_erp_flutter (from `../../zg_erp_flutter/.ios/Flutter`)
+  - zg_platform_channels (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/zg_platform_channels/ios`)
+  - ZGFlutterRouter (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/ZGFlutterRouter/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: "../../zg_erp_flutter/.ios/Flutter/engine"
+  flutter_boost:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/flutter_boost/ios"
+  FlutterPluginRegistrant:
+    :path: "../../zg_erp_flutter/.ios/Flutter/FlutterPluginRegistrant"
+  FlutterUnitTest:
+    :path: "../"
+  package_info:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/package_info/ios"
+  path_provider_linux:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_linux/ios"
+  path_provider_windows:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_windows/ios"
+  shared_preferences:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences/ios"
+  shared_preferences_linux:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_linux/ios"
+  shared_preferences_macos:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_macos/ios"
+  shared_preferences_web:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_web/ios"
+  shared_preferences_windows:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_windows/ios"
+  zg_erp_flutter:
+    :path: "../../zg_erp_flutter/.ios/Flutter"
+  zg_platform_channels:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/zg_platform_channels/ios"
+  ZGFlutterRouter:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/ZGFlutterRouter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_boost: a7cfa776b75329d5e7d101d0cd33e75042bcde69
+  FlutterPluginRegistrant: 2a0e66a38e096890764e71d8b43691ecb22d5c5b
+  FlutterUnitTest: 16512697e8d5d19ffe32bf84ca7a252ddf51cf12
+  package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider_linux: 4d630dc393e1f20364f3e3b4a2ff41d9674a84e4
+  path_provider_windows: a2b81600c677ac1959367280991971cb9a1edb3b
+  shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
+  shared_preferences_linux: afefbfe8d921e207f01ede8b60373d9e3b566b78
+  shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
+  shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
+  shared_preferences_windows: 36b76d6f54e76ead957e60b49e2f124b4cd3e6ae
+  zg_erp_flutter: fb6f4077bc7d314d42a98276e259633bf749a1a9
+  zg_platform_channels: 5d7572908ab6402f7d1ff247e5987382908854d0
+  ZGFlutterRouter: 6c9388bed77f57425109f5a5967dc6c5bdb6193e
+
+PODFILE CHECKSUM: 754146dba8c61a7b675896e88a147db473e578b6
+
+COCOAPODS: 1.9.3
