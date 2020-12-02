@@ -10,7 +10,9 @@
 #endif
 #endif
 
+#import "FlutterStreamsChannel.h"
 #import "PigeonMessage.h"
+#import "PluginExample.h"
 #import "ZgPlatformChannelsPlugin.h"
 #import "zg_platform_channels.h"
 

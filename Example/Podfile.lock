@@ -6,15 +6,28 @@ PODS:
     - Flutter
     - flutter_boost
     - package_info
+    - path_provider
+    - screen
     - shared_preferences
+    - streams_channel
+    - url_launcher
+    - video_player
+    - wakelock
+    - webview_flutter
     - zg_platform_channels
     - ZGFlutterRouter
   - FlutterUnitTest (0.1.0)
   - package_info (0.0.1):
     - Flutter
+  - path_provider (0.0.1):
+    - Flutter
   - path_provider_linux (0.0.1):
     - Flutter
+  - path_provider_macos (0.0.1):
+    - Flutter
   - path_provider_windows (0.0.1):
+    - Flutter
+  - screen (0.0.1):
     - Flutter
   - shared_preferences (0.0.1):
     - Flutter
@@ -25,6 +38,26 @@ PODS:
   - shared_preferences_web (0.0.1):
     - Flutter
   - shared_preferences_windows (0.0.1):
+    - Flutter
+  - streams_channel (0.0.1):
+    - Flutter
+  - url_launcher (0.0.1):
+    - Flutter
+  - url_launcher_linux (0.0.1):
+    - Flutter
+  - url_launcher_macos (0.0.1):
+    - Flutter
+  - url_launcher_web (0.0.1):
+    - Flutter
+  - url_launcher_windows (0.0.1):
+    - Flutter
+  - video_player (0.0.1):
+    - Flutter
+  - video_player_web (0.0.1):
+    - Flutter
+  - wakelock (0.0.1):
+    - Flutter
+  - webview_flutter (0.0.1):
     - Flutter
   - zg_erp_flutter (0.0.1):
     - Flutter
@@ -39,13 +72,26 @@ DEPENDENCIES:
   - FlutterPluginRegistrant (from `../../zg_erp_flutter/.ios/Flutter/FlutterPluginRegistrant`)
   - FlutterUnitTest (from `../`)
   - package_info (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/package_info/ios`)
+  - path_provider (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider/ios`)
   - path_provider_linux (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_linux/ios`)
+  - path_provider_macos (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_macos/ios`)
   - path_provider_windows (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_windows/ios`)
+  - screen (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/screen/ios`)
   - shared_preferences (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences/ios`)
   - shared_preferences_linux (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_linux/ios`)
   - shared_preferences_macos (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_macos/ios`)
   - shared_preferences_web (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_web/ios`)
   - shared_preferences_windows (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_windows/ios`)
+  - streams_channel (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/streams_channel/ios`)
+  - url_launcher (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher/ios`)
+  - url_launcher_linux (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_linux/ios`)
+  - url_launcher_macos (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_macos/ios`)
+  - url_launcher_web (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_web/ios`)
+  - url_launcher_windows (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_windows/ios`)
+  - video_player (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/video_player/ios`)
+  - video_player_web (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/video_player_web/ios`)
+  - wakelock (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/wakelock/ios`)
+  - webview_flutter (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/webview_flutter/ios`)
   - zg_erp_flutter (from `../../zg_erp_flutter/.ios/Flutter`)
   - zg_platform_channels (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/zg_platform_channels/ios`)
   - ZGFlutterRouter (from `../../zg_erp_flutter/.ios/Flutter/.symlinks/ZGFlutterRouter/ios`)
@@ -61,10 +107,16 @@ EXTERNAL SOURCES:
     :path: "../"
   package_info:
     :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/package_info/ios"
+  path_provider:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider/ios"
   path_provider_linux:
     :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_linux/ios"
+  path_provider_macos:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_macos/ios"
   path_provider_windows:
     :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/path_provider_windows/ios"
+  screen:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/screen/ios"
   shared_preferences:
     :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences/ios"
   shared_preferences_linux:
@@ -75,6 +127,26 @@ EXTERNAL SOURCES:
     :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_web/ios"
   shared_preferences_windows:
     :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/shared_preferences_windows/ios"
+  streams_channel:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/streams_channel/ios"
+  url_launcher:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher/ios"
+  url_launcher_linux:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_linux/ios"
+  url_launcher_macos:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_macos/ios"
+  url_launcher_web:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_web/ios"
+  url_launcher_windows:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/url_launcher_windows/ios"
+  video_player:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/video_player/ios"
+  video_player_web:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/video_player_web/ios"
+  wakelock:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/wakelock/ios"
+  webview_flutter:
+    :path: "../../zg_erp_flutter/.ios/Flutter/.symlinks/webview_flutter/ios"
   zg_erp_flutter:
     :path: "../../zg_erp_flutter/.ios/Flutter"
   zg_platform_channels:
@@ -85,16 +157,29 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   flutter_boost: a7cfa776b75329d5e7d101d0cd33e75042bcde69
-  FlutterPluginRegistrant: 2a0e66a38e096890764e71d8b43691ecb22d5c5b
+  FlutterPluginRegistrant: 5e77ede99684424e06a326afedff4858e80d2374
   FlutterUnitTest: 16512697e8d5d19ffe32bf84ca7a252ddf51cf12
   package_info: 873975fc26034f0b863a300ad47e7f1ac6c7ec62
+  path_provider: abfe2b5c733d04e238b0d8691db0cfd63a27a93c
   path_provider_linux: 4d630dc393e1f20364f3e3b4a2ff41d9674a84e4
+  path_provider_macos: f760a3c5b04357c380e2fddb6f9db6f3015897e0
   path_provider_windows: a2b81600c677ac1959367280991971cb9a1edb3b
+  screen: abd91ca7bf3426e1cc3646d27e9b2358d6bf07b0
   shared_preferences: af6bfa751691cdc24be3045c43ec037377ada40d
   shared_preferences_linux: afefbfe8d921e207f01ede8b60373d9e3b566b78
   shared_preferences_macos: f3f29b71ccbb56bf40c9dd6396c9acf15e214087
   shared_preferences_web: 141cce0c3ed1a1c5bf2a0e44f52d31eeb66e5ea9
   shared_preferences_windows: 36b76d6f54e76ead957e60b49e2f124b4cd3e6ae
+  streams_channel: 16855ffd0568eded9563b2fec6a1bfa94420b353
+  url_launcher: 6fef411d543ceb26efce54b05a0a40bfd74cbbef
+  url_launcher_linux: ac237cb7a8058736e4aae38bdbcc748a4b394cc0
+  url_launcher_macos: fd7894421cd39320dce5f292fc99ea9270b2a313
+  url_launcher_web: e5527357f037c87560776e36436bf2b0288b965c
+  url_launcher_windows: 683d7c283894db8d1914d3ab2223b20cc1ad95d5
+  video_player: 9cc823b1d9da7e8427ee591e8438bfbcde500e6e
+  video_player_web: da8cadb8274ed4f8dbee8d7171b420dedd437ce7
+  wakelock: 0d4a70faf8950410735e3f61fb15d517c8a6efc4
+  webview_flutter: d2b4d6c66968ad042ad94cbb791f5b72b4678a96
   zg_erp_flutter: fb6f4077bc7d314d42a98276e259633bf749a1a9
   zg_platform_channels: 5d7572908ab6402f7d1ff247e5987382908854d0
   ZGFlutterRouter: 6c9388bed77f57425109f5a5967dc6c5bdb6193e

@@ -38,7 +38,28 @@
     "package_info": [
 
     ],
+    "path_provider": [
+
+    ],
+    "screen": [
+
+    ],
     "shared_preferences": [
+
+    ],
+    "streams_channel": [
+
+    ],
+    "url_launcher": [
+
+    ],
+    "video_player": [
+
+    ],
+    "wakelock": [
+
+    ],
+    "webview_flutter": [
 
     ],
     "zg_platform_channels": [
